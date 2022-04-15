@@ -17,10 +17,14 @@ in project root dir > Metar > Settings.py
 	
 Make Virtual env in Project Root Directory
 
+Activate Virtual enviremens
+
 Install requirements.txt
 	pip install -r requirements.txt
 
 pip install -r requirements.txt
+
+python manage.py runserver
 
 
 http://127.0.0.1:8000/metar/ping/
